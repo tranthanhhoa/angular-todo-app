@@ -12,12 +12,12 @@
     },
     {
       "title": "Task 3",
-      "complete": false,
+      "complete": true,
       "id": 3
     },
     {
       "title": "Task 4",
-      "complete": false,
+      "complete": true,
       "id": 4
     }
   ]
